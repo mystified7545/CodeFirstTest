@@ -1,0 +1,11 @@
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\Bizweiser.DAL.dll.config
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\Bizweiser.DAL.dll
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\Bizweiser.DAL.pdb
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\EntityFramework.dll
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\EntityFramework.xml
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\obj\Debug\Bizweiser.DAL.csprojResolveAssemblyReference.cache
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\obj\Debug\Bizweiser.DAL.dll
+C:\OTHERS\PROJECTS\VS\Bizweiser_Test\Bizweiser.DAL\obj\Debug\Bizweiser.DAL.pdb
